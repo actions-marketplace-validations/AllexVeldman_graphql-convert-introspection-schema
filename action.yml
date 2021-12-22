@@ -1,6 +1,9 @@
 name: 'graphql-convert-introspection-schema'
 description: 'Convert an introspection schema.json to a .graphql schema'
 author: 'Allex Veldman'
+branding:
+  icon: activity
+  color: purple
 inputs:
   schema:
     required: true
