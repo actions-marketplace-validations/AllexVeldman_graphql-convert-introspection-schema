@@ -1,0 +1,10 @@
+name: 'graphql-convert-introspection-schema'
+description: 'Convert an introspection schema.json to a .graphql schema'
+author: 'Allex Veldman'
+inputs:
+  schema:
+    required: true
+    description: 'path to schema.json'
+runs:
+  using: 'node16'
+  main: 'dist/index.js'
