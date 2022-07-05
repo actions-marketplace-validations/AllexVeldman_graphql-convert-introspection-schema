@@ -1,3 +1,5 @@
+⚠️ As I no longer have a use for this action and I don't think anyone is using it, I'm archiving this repo
+
 [![build-test](https://github.com/AllexVeldman/graphql-convert-introspection-schema/actions/workflows/test.yml/badge.svg)](https://github.com/AllexVeldman/graphql-convert-introspection-schema/actions/workflows/test.yml)
 
 # Convert a GraphQL introspection result to JSON
